@@ -96,3 +96,21 @@ The raw exchange between the local machine and the server can be seen in `raw_io
 And the logs, no different from what's printed on the console, will be in `logs`.
 
 See [RUNS.md][] for some live runs, with analysis.
+
+## Appendix
+
+Quick search on GitHub revealed https://github.com/mthcht/ThreatIntel-Reports/tree/affaf32bfec281cedc7055ddddf159218f9d133e/Intel%20Reports/dmpdump_github_io/posts_NorthKorea_Backdoor_Stealer
+Which links to https://dmpdump.github.io/posts/NorthKorea_Backdoor_Stealer/
+Also linking to https://x.com/tayvano_/status/1872980032752415227
+
+Which seems to suggest it's a;
+
+> "Contagious Interview" campaign conducted by North Korea-nexus threat actors
+
+### IOCs
+
+- `VCAM.zip` (stealer) - f3d2a2a31097efbf41a0e2728db943f33af751c347abed9aedf13a0e08ef4cfc
+- `ffmpeg.sh` (initiation script) - cf15c380fa299241410c98c181860a50131b03a5a3dd47058bdc5e5e34474efd
+- `DriverEasy.app` - e1bdb6a878dc5a81a74f7178259571d6c1c89fd8163185e6ccc61732d64b6338
+- `http://api.vidtechdrivers.com`
+- `http://72.5.42.93:8080`
