@@ -6,9 +6,9 @@ The logs and artifacts for runs mentioned here are in the [runs](runs) folder.
 
     | Identity | `f1665684MyzFhC9suQL4` |            |                    |
     | -------- | ---------------------- | :--------: | :----------------: |
-    | Username |        `jake`          | Start Time | Feb 8th 2025 05:48 |
+    | Username |         `jake`         | Start Time | Feb 8th 2025 05:48 |
     | Hostname |       `jake-pc`        |  End Time  | Feb 8th 2025 15:14 |
-    | OS, Arch |    `darwin arm64`      |  Duration  |     9h 26m 7s      |
+    | OS, Arch |     `darwin arm64`     |  Duration  |     9h 26m 7s      |
 
     ## Notes:
 
@@ -18,26 +18,23 @@ The logs and artifacts for runs mentioned here are in the [runs](runs) folder.
     - Steals the macOS login keychain file
     - No Uploads, No Downloads, No Arbitrary Execution
 
-3. `1739024711101:e4e853ddqg2ibu4tzlyd`
+2. `1739024711101:e4e853ddqg2ibu4tzlyd`
 
     | Identity | `e4e853ddqg2ibu4tzlyd` |            |                    |
     | -------- | ---------------------- | :--------: | :----------------: |
     | Username |        `janet`         | Start Time | Feb 8th 2025 15:25 |
     | Hostname |      `workspace`       |  End Time  | Feb 8th 2025 18:30 |
-    | OS, Arch |    `darwin arm64`      |  Duration  |      3h 5m 5s      |
+    | OS, Arch |     `darwin arm64`     |  Duration  |      3h 5m 5s      |
 
     ## Notes:
 
-    While it does everything mentioned with `f1665684MyzFhC9suQL4`, 1h into the runtime, we got an upload from the server.
+    While it does everything mentioned with `f1665684MyzFhC9suQL4`, 1 hour into the runtime, we got an upload from the server.
 
     This could suggest it's not an automated process - someone initiated the execution.
 
     They attemped to unarchive a `449` byte gzip-compressed tar archive to `/var/tmp` (saved as `a220fa9a18f85b2c2384`).
 
     This archive contained one file, named `removeMac.scpt` which is an Apple Script.
-
-    <details>
-    <summary>Analysis</summary>
 
     ```console
     $ file a220fa9a18f85b2c2384
@@ -63,8 +60,6 @@ The logs and artifacts for runs mentioned here are in the [runs](runs) folder.
     Birth: 2024-12-12 03:01:37.000000000 +0100
     ```
 
-    </details>
-
     They then attempted to execute this script using `osascript`. Which would've deleted the following:
 
     - `/var/tmp/VCam`
@@ -73,6 +68,20 @@ The logs and artifacts for runs mentioned here are in the [runs](runs) folder.
 
     Effectively erasing all traces of the compromise, and restarting the machine.
 
-    A worrying concern is this won't remove the launch service it injected as part of the `ffmpeg.sh` script.
+    A point of concern is this won't remove the launch service it injected as part of the `ffmpeg.sh` script.
 
-    Even though the binary it points to, which was in `/var/tmp/VCam` no longer exists.
+3. `1739040732677:d06e23f89wwmMAMUp082`
+
+    | Identity | `d06e23f89wwmMAMUp082` |            |                    |
+    | -------- | ---------------------- | :--------: | :----------------: |
+    | Username |        `emily`         | Start Time | Feb 8th 2025 19:52 |
+    | Hostname |      `emily-mbp`       |  End Time  | Feb 9th 2025 00:23 |
+    | OS, Arch |     `darwin arm64`     |  Duration  |     4h 31m 17s     |
+
+    ## Notes:
+
+    Same observations with `e4e853ddqg2ibu4tzlyd`, except the upload and subsequent command execution occurred after 3 hours.
+
+    The downloaded artifact is the same, as well as the command executed right after.
+
+    This makes me suspect it might be the final stage of the exploit, cleanup.

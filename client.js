@@ -159,7 +159,7 @@ async function processUpload(cmd_data) {
   digest.update(blob);
   let hash = digest.digest();
 
-  log(display(` - Hash: \`${hash.toString("base64")}\``));
+  log(display(` - Hash (sha256): \`${hash.toString("hex")}\``));
 
   let file = join(GLOBAL.ARTIFACTS_DIR, randomBytes(10).toString("hex"));
 
@@ -201,7 +201,7 @@ async function processOsShell(cmd_data) {
       : `Unknown Mode (${mode})`;
 
   log(display(` - Mode: \`${mode}\``));
-  log(display(` - Timeout: \`${timeout}\` seconds`));
+  log(display(` - Timeout: \`${timeout} seconds\``));
   log(display(` - Command: \`${command}\``));
   log(display(` - Args: \`${args}\``));
   log(display(` - Combined: \`${command} ${args.join(" ")}\``));

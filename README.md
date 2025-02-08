@@ -63,7 +63,7 @@ Work Dir: /var/folders/nx/6whq7tfd2x7_zlsnj1q8w8g00000gn/T/bits/1739024711101:e4
  ? The server attempted to put a file on this machine:
  ?  - Location: `/var/tmp`
  ?  - Blob Size: `449`
- ?  - Hash: `Y2g4QxYfOd7XexJVxbgK4OXCKePyWYWpNCUt+ooFRCY=`
+ ?  - Hash (sha256): `63683843161f39ded77b1255c5b80ae0e5c229e3f25985a934252dfa8a054426`
  ?  - Saving To: `/var/folders/nx/6whq7tfd2x7_zlsnj1q8w8g00000gn/T/bits/1739024711101:e4e853ddqg2ibu4tzlyd/artifacts/a220fa9a18f85b2c2384`
 > [COMMAND_OSSHELL (vbcx)]
  ? The server attempted to run a command on this machine:
