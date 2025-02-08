@@ -22,7 +22,7 @@ The logs and artifacts for runs mentioned here are in the [runs](runs) folder.
 
     ## Notes:
     
-    Unlike `f1665684MyzFhC9suQL4`, 1h into the runtime, we got an upload from the server.
+    Unlike `f1665684MyzFhC9suQL4`, 1h into the runtime, we got an upload from the server. This could suggest it's not an automated process - someone initiated the execution.
 
     They attemped to unarchive a `449` byte gzip-compressed tar archive to `/var/tmp` (saved as `a220fa9a18f85b2c2384`).
 

@@ -1,16 +1,27 @@
-# stealer study
+# Stealer Study
 
-After careful analysis of the source, I prepared this mocked client to observe further dynamic behaviour of the server.
+While looking into a compromise, I noticed they left behind a back door, which was just Go code.
 
-The code suggests the server can, at any random point, request a file from the machine or upload one to it.
+Futher analysis revealed more about it's behaviour, most of which is baked into the code itself:
 
-As well as being able to execute arbitrary commands. None of which are statically defined in the source code.
+1. Steal metamask extension data.
+2. Stealing macOS keychain data and other login data.
+3. Patch chrome settings, arbitrarily giving permissions, to for example, microphone.
+4. Steal chrome cookies.
+5. Determine all installed extensions, and their directory sizes.
+6. Download any file to any location on the compromised machine.
+7. Upload any file in any location from the compromised machine.
+8. Execute arbitrary commands.
 
-This client is carefully written to avoid unintentional effects on the host machine.
+Seeing this, I decided to build a mocked out client that mimics a compromised system, to understand how the orchestration server behaves.
 
-None of what is supposed to happen will, and the server will be replied with simulated responses.
+Especially the dynamic bits of the code, upload, download, and arbitrary execution.
 
-Enough to trigger the next command. But no further.
+This client is carefully written to avoid unintentional effects to the host machine.
+
+None of what is supposed to happen will, and every instruction received from the server will be explained in the console.
+
+The server will then be replied to with simulated responses. Enough to trigger the next command. But no further.
 
 ## Usage
 
@@ -78,3 +89,5 @@ Any artifacts the server attempts to send to the local machine will be in the `a
 The raw exchange between the local machine and the server can be seen in `raw_io`.
 
 And the logs, no different from what's printed on the console, will be in `logs`.
+
+See [RUNS.md][] for some live runs, with analysis.
