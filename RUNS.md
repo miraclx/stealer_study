@@ -52,7 +52,7 @@ The logs and artifacts for runs mentioned here are in the [runs](runs) folder.
     $ sha256sum a220fa9a18f85b2c2384.unarchived/removeMac.scpt
     f77dd827814d2fd810c55c49a7da17a43f0a1e4206c7c673f63eae33f1118e21  a220fa9a18f85b2c2384.unarchived/removeMac.scpt
 
-    $ stat removeMac.scpt
+    $ stat a220fa9a18f85b2c2384.unarchived/removeMac.scpt
       File: a220fa9a18f85b2c2384.unarchived/removeMac.scpt
       Size: 1125      	Blocks: 8          IO Block: 4096   regular file
     Device: 1,13	Inode: ---------------   Links: 1
