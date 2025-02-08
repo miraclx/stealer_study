@@ -1,0 +1,1700 @@
+> [[33mCOMMAND_INFO[0m (qwer)]
+ [34m?[0m Connecting as `jake` via `jake-pc` on `darwin arm64`
+> [[33mCOMMAND_INFO[0m (qwer)]
+ [34m?[0m Connecting as `jake` via `jake-pc` on `darwin arm64`
+> [[33mCOMMAND_AUTO[0m (r4ys)]
+> [[33mAUTO_CHROME_GATHER[0m (89io)]
+ [34m?[0m This will archive and steal the following:
+ [34m?[0m  - `Local Extension Settings` directory of any Chrome-like browser
+ [34m?[0m  - All files owned and managed by any Metamask installation
+> [[33mCOMMAND_AUTO[0m (r4ys)]
+> [[33mAUTO_CHROME_COOKIE[0m (gi%#)]
+ [34m?[0m This will list all installed extensions for any Chrome-like browser
+ [34m?[0m Check their directory sizes, and send it to the server
+> [[33mCOMMAND_AUTO[0m (r4ys)]
+> [[33mAUTO_CHROME_KEYCHAIN[0m (kyci)]
+ [34m?[0m This will archive and steal the following:
+ [34m?[0m  - `Login Data` database of any Chrome-like browser
+ [34m?[0m  - The login keychain file at `~/Library/Keychains/login.keychain-db`
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..
+ [34m?[0m Waited 60 seconds, resuming..
+> [[33mCOMMAND_WAIT[0m (ghdj)]
+ [34m?[0m Waiting 60 seconds..

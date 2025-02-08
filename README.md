@@ -14,6 +14,8 @@ Enough to trigger the next command. But no further.
 
 ## Usage
 
+> See [RUNS.md](RUNS.md) for analysis of live runs.
+
 ```console
 $ node client.js
 Work Dir: /var/folders/nx/6whq7tfd2x7_zlsnj1q8w8g00000gn/T/bits/1739024711101:e4e853ddqg2ibu4tzlyd
