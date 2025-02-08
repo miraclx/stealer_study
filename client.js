@@ -61,9 +61,9 @@ function display(codeOrMsg) {
 
 async function startLoop(id, url) {
   let alive = true;
-  
+
   let cmd_data = [], cmd_type = COMMAND.COMMAND_INFO;
-  
+
   while (alive) {
     let msg_type = "", msg_data = [];
     try {
@@ -76,9 +76,9 @@ async function startLoop(id, url) {
     GLOBAL.STREAMS.RAW_IO.write(`> ${msg_type} ${pretty_payload(msg_data).join(" ")}\n`);
 
     let msg = encodeMsg(id, msg_type, msg_data);
-    
+
     let cmd = await sendMsg(url, msg);
-    
+
     [cmd_type, cmd_data] = decodeMsg(cmd);
 
     debug("received:", cmd_type, cmd_data);
@@ -104,7 +104,7 @@ function pretty_payload(data) {
 
 async function handleCommand(cmd_type, cmd_data, alive) {
   let msg_type = "", msg_data = [];
-  
+
   switch (cmd_type) {
     case COMMAND.COMMAND_INFO:
       log(display(cmd_type));
@@ -150,22 +150,22 @@ async function processUpload(cmd_data) {
 
   let path = cmd_data[0].toString();
   let blob = cmd_data[1];
-  
+
   log(display(` - Location: \`${path}\``));;
   log(display(` - Blob Size: \`${blob.length}\``));
-  
+
   let digest = createHash("sha256");
   digest.update(blob);
   let hash = digest.digest();
 
   log(display(` - Hash: \`${hash.toString("base64")}\``));
-  
+
   let file = join(GLOBAL.ARTIFACTS_DIR, randomBytes(10).toString("hex"));
-  
+
   log(display(` - Saving To: \`${file}\``));
 
   await writeFile(file, blob);
-  
+
   return [MSG.MSG_LOG, [MSG.LOG_SUCCESS, `${path} : ${blob.length}`]];
 }
 
@@ -174,12 +174,12 @@ async function processDownload(cmd_data) {
 
   log(display("The server attempted to download a file from this machine:"));
   log(display(` - Location: \`${path}\``));
-  
+
   let file = basename(path);
   let meta = await stat(file);
 
   let type = meta.isDirectory() ? "Directory" : meta.isFile() ? "File" : `Non-file/dir, dumping all stats: ${meta}`;
-  
+
   log(display(` - Type: \`${type}\``));
 
   return [MSG.MSG_FILE, [MSG.LOG_SUCCESS, `${file}.tar.gz`, EMPTY_TAR_GZ]];
@@ -187,26 +187,26 @@ async function processDownload(cmd_data) {
 
 async function processOsShell(cmd_data) {
   log(display("The server attempted to run a command on this machine:"));
-  
+
   let mode = cmd_data[0].toString();
   let timeout = parseInt(cmd_data[1], 16);
   let shell = cmd_data[2].toString();
   let args  = cmd_data.slice(3).map(arg => arg.toString());
 
   mode = mode == COMMAND.SHELL_MODE_WAITGETOUT ? `Complete or Timeout [${COMMAND.alt[mode]} (mode)]` : mode == COMMAND.SHELL_MODE_DETACH ? `Detach Immediately  [${COMMAND.alt[mode]} (mode)]` : `Unknown Mode (${mode})`;
-  
+
   log(display(` - Mode: \`${mode}\``));
   log(display(` - Timeout: \`${timeout}\``));
   log(display(` - Shell: \`${shell}\``));
   log(display(` - Args: \`${args}\``));
   log(display(` - Combined: \`${shell} ${args.join(" ")}\``));
-  
+
   return [MSG.MSG_LOG, [MSG.LOG_SUCCESS, randomBytes(32)]];
 }
 
 function processAuto(cmd_data) {
   let msg_type, msg_data = [];
-  
+
   let mode = cmd_data[0].toString();
 
   switch (mode) {
@@ -257,56 +257,88 @@ async function processWait(cmd_data) {
   let duration = parseInt(cmd_data[0], 16) / 1_000_000;
 
   let seconds = duration / 1_000;
-  
+
   log(display(`Waiting ${seconds} seconds..`));
-  
+
   await new Promise(r => setTimeout(r, duration));
 
   log(display(`Waited ${seconds} seconds, resuming..`));
 
   let random_data = randomBytes(128);
-  
+
   return [MSG.MSG_PING, [random_data]];
 }
 
 function processExit(_cmd_data) {
   log(display("Server requested we exit, complying.."));
-  
+
   return [MSG.MSG_LOG, [MSG.LOG_SUCCESS, "exited"]];
 }
 
+let users = {
+  janet: {
+    username: "janet",
+    hostname: "workspace",
+    os: "darwin",
+    arch: "arm64",
+  },
+  jake: {
+    username: "jake",
+    hostname: "jake-pc",
+    os: "darwin",
+    arch: "arm64",
+  },
+  emily: {
+    username: "emily",
+    hostname: "emily-mbp",
+    os: "darwin",
+    arch: "arm64",
+  },
+}
+
 function processInfo() {
-  log(display("Connecting as `jake` via `jake-pc` on `darwin arm64`"));
-  
+  let data = users["janet"];
+
+  log(display(`Connecting as \`${data.username}\` via \`${data.hostname}\` on \`${data.os} ${data.arch}\``));
+
   msg_type = MSG.MSG_INFO;
   msg_data = [
-    "jake",
-    "jake-pc",
-    "darwin",
-    "arm64",
-    "2.0"
+    data.username,
+    data.hostname,
+    data.os,
+    data.arch,
+    "2.0",
   ];
 
   return [msg_type, msg_data];
 }
 
 async function main() {
+  let [,,username] = process.argv;
+
+  username = username?.toLowerCase() ?? "janet";
+
+  if (!(username in users)) {
+    console.error(`Error: unknown user, expected one of: ${Object.keys(users).join(", ")}`);
+    process.exit(1);
+  }
+
   let url = "http://72.5.42.93:8080";
 
   let id = randomBytes(4).toString("hex");
 
   let date = new Date();
-  
+
   let root = join(tmpdir(), "bits");
-  
+
   await mkdir(root, {recursive: true});
-  
+
   let workdir = await mkdtemp(join(root, `${date.getTime()}:${id}`));
 
   console.log(`Work Dir: ${workdir}`);
 
   GLOBAL.ARTIFACTS_DIR = join(workdir, "artifacts");
-  
+
   await mkdir(GLOBAL.ARTIFACTS_DIR);
 
   let logFile = join(workdir, "logs");
@@ -314,7 +346,7 @@ async function main() {
 
   GLOBAL.STREAMS.LOGS = createWriteStream(logFile);
   GLOBAL.STREAMS.RAW_IO = createWriteStream(rawCommands);
-  
+
   while (true) {
     try {
       await startLoop(id, url);
