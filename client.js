@@ -13,6 +13,7 @@ const GLOBAL = {
     RAW_IO: undefined,
   },
   ARTIFACTS_DIR: undefined,
+  USERNAME: undefined,
 };
 const DEBUG = "DEBUG" in process.env && !["0", "no"].includes(process.env["DEBUG"]);
 
@@ -189,17 +190,21 @@ async function processOsShell(cmd_data) {
   log(display("The server attempted to run a command on this machine:"));
 
   let mode = cmd_data[0].toString();
-  let timeout = parseInt(cmd_data[1], 16);
-  let shell = cmd_data[2].toString();
+  let timeout = parseInt(cmd_data[1], 16) / 1_000_000_000;
+  let command = cmd_data[2].toString();
   let args  = cmd_data.slice(3).map(arg => arg.toString());
 
-  mode = mode == COMMAND.SHELL_MODE_WAITGETOUT ? `Complete or Timeout [${COMMAND.alt[mode]} (mode)]` : mode == COMMAND.SHELL_MODE_DETACH ? `Detach Immediately  [${COMMAND.alt[mode]} (mode)]` : `Unknown Mode (${mode})`;
+  mode = mode == COMMAND.SHELL_MODE_WAITGETOUT
+    ? `Complete or Timeout [${COMMAND.alt[mode]} (mode)]`
+    : mode == COMMAND.SHELL_MODE_DETACH
+      ? `Detach Immediately  [${COMMAND.alt[mode]} (mode)]`
+      : `Unknown Mode (${mode})`;
 
   log(display(` - Mode: \`${mode}\``));
-  log(display(` - Timeout: \`${timeout}\``));
-  log(display(` - Shell: \`${shell}\``));
+  log(display(` - Timeout: \`${timeout}\` seconds`));
+  log(display(` - Command: \`${command}\``));
   log(display(` - Args: \`${args}\``));
-  log(display(` - Combined: \`${shell} ${args.join(" ")}\``));
+  log(display(` - Combined: \`${command} ${args.join(" ")}\``));
 
   return [MSG.MSG_LOG, [MSG.LOG_SUCCESS, randomBytes(32)]];
 }
@@ -277,19 +282,16 @@ function processExit(_cmd_data) {
 
 let users = {
   janet: {
-    username: "janet",
     hostname: "workspace",
     os: "darwin",
     arch: "arm64",
   },
   jake: {
-    username: "jake",
     hostname: "jake-pc",
     os: "darwin",
     arch: "arm64",
   },
   emily: {
-    username: "emily",
     hostname: "emily-mbp",
     os: "darwin",
     arch: "arm64",
@@ -297,13 +299,13 @@ let users = {
 }
 
 function processInfo() {
-  let data = users["janet"];
+  let data = users[GLOBAL.USERNAME];
 
-  log(display(`Connecting as \`${data.username}\` via \`${data.hostname}\` on \`${data.os} ${data.arch}\``));
+  log(display(`Connecting as \`${GLOBAL.USERNAME}\` via \`${data.hostname}\` on \`${data.os} ${data.arch}\``));
 
   msg_type = MSG.MSG_INFO;
   msg_data = [
-    data.username,
+    GLOBAL.USERNAME,
     data.hostname,
     data.os,
     data.arch,
@@ -322,6 +324,8 @@ async function main() {
     console.error(`Error: unknown user, expected one of: ${Object.keys(users).join(", ")}`);
     process.exit(1);
   }
+
+  GLOBAL.USERNAME = username;
 
   let url = "http://72.5.42.93:8080";
 

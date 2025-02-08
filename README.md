@@ -16,11 +16,11 @@ Enough to trigger the next command. But no further.
 
 ```console
 $ node client.js
-Work Dir: /var/folders/nx/6whq7tfd2x7_zlsnj1q8w8g00000gn/T/bits/1738990085747:f1665684MyzFhC9suQL4
+Work Dir: /var/folders/nx/6whq7tfd2x7_zlsnj1q8w8g00000gn/T/bits/1739024711101:e4e853ddqg2ibu4tzlyd
 > [COMMAND_INFO (qwer)]
- ? Connecting as `jake` via `jake-pc` on `darwin arm64`
+ ? Connecting as `janet` via `workspace` on `darwin arm64`
 > [COMMAND_INFO (qwer)]
- ? Connecting as `jake` via `jake-pc` on `darwin arm64`
+ ? Connecting as `janet` via `workspace` on `darwin arm64`
 > [COMMAND_AUTO (r4ys)]
 > [AUTO_CHROME_GATHER (89io)]
  ? This will archive and steal the following:
@@ -40,6 +40,23 @@ Work Dir: /var/folders/nx/6whq7tfd2x7_zlsnj1q8w8g00000gn/T/bits/1738990085747:f1
  ? Waited 60 seconds, resuming..
 > [COMMAND_WAIT (ghdj)]
  ? Waiting 60 seconds..
+ ? Waited 60 seconds, resuming..
+> [COMMAND_UPLOAD (asdf)]
+ ? The server attempted to put a file on this machine:
+ ?  - Location: `/var/tmp`
+ ?  - Blob Size: `449`
+ ?  - Hash: `Y2g4QxYfOd7XexJVxbgK4OXCKePyWYWpNCUt+ooFRCY=`
+ ?  - Saving To: `/var/folders/nx/6whq7tfd2x7_zlsnj1q8w8g00000gn/T/bits/1739024711101:e4e853ddqg2ibu4tzlyd/artifacts/a220fa9a18f85b2c2384`
+> [COMMAND_OSSHELL (vbcx)]
+ ? The server attempted to run a command on this machine:
+ ?  - Mode: `Complete or Timeout [SHELL_MODE_WAITGETOUT (mode)]`
+ ?  - Timeout: `20 seconds`
+ ?  - Command: `osascript`
+ ?  - Args: `/var/tmp/removeMac.scpt`
+ ?  - Combined: `osascript /var/tmp/removeMac.scpt`
+> [COMMAND_WAIT (ghdj)]
+ ? Waiting 60 seconds..
+ ? Waited 60 seconds, resuming..
 ```
 
 Looking at the temp dir:
