@@ -95,7 +95,7 @@ The raw exchange between the local machine and the server can be seen in `raw_io
 
 And the logs, no different from what's printed on the console, will be in `logs`.
 
-See [RUNS.md][] for some live runs, with analysis.
+See [RUNS.md](RUNS.md) for some live runs, with analysis.
 
 ## Appendix
 
