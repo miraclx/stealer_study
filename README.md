@@ -1,23 +1,28 @@
 # Stealer Study
 
+> [!WARNING]
+> While this repo does not include the malware, and the mocked-out client code is careful to prevent unintentional behavior,
+>
+> Employ maximum caution when operating with potentially hazardous material.
+
 While looking into a compromise, I noticed they left behind a back door, which was just Go code.
 
-Futher analysis revealed more about it's behaviour, most of which is baked into the code itself:
+Further analysis revealed more about its behavior, most of which is baked into the code itself:
 
 1. Steal metamask extension data.
 2. Stealing macOS keychain data and other login data.
-3. Patch chrome settings, arbitrarily giving permissions, to for example, microphone.
+3. Patch chrome settings, arbitrarily giving permissions, to for example, the microphone.
 4. Steal chrome cookies.
-5. Determine all installed extensions, and their directory sizes.
+5. Determine all installed extensions and their directory sizes.
 6. Download any file to any location on the compromised machine.
 7. Upload any file in any location from the compromised machine.
 8. Execute arbitrary commands.
 
-Seeing this, I decided to build a mocked out client that mimics a compromised system, to understand how the orchestration server behaves.
+Seeing this, I decided to build a mocked-out client that mimics a compromised system, to understand how the orchestration server behaves.
 
 Especially the dynamic bits of the code, upload, download, and arbitrary execution.
 
-This client is carefully written to avoid unintentional effects to the host machine.
+This client is carefully written to avoid unintentional effects on the host machine.
 
 None of what is supposed to happen will, and every instruction received from the server will be explained in the console.
 
