@@ -114,5 +114,5 @@ Which seems to suggest it's a;
 - `VCAM.zip` (stealer) - f3d2a2a31097efbf41a0e2728db943f33af751c347abed9aedf13a0e08ef4cfc
 - `ffmpeg.sh` (initiation script) - cf15c380fa299241410c98c181860a50131b03a5a3dd47058bdc5e5e34474efd
 - `DriverEasy.app` - e1bdb6a878dc5a81a74f7178259571d6c1c89fd8163185e6ccc61732d64b6338
-- `http://api.vidtechdrivers.com`
-- `http://72.5.42.93:8080`
+- `http://api.vidtechdrivers[.]com`
+- `http://72.5.42[.]93:8080`
