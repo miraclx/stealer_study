@@ -10,9 +10,15 @@ The logs and artifacts for runs mentioned here are in the [runs](runs) folder.
     | Hostname |       `jake-pc`        |  End Time  | Feb 8th 2025 15:14 |
     | OS, Arch |    `darwin arm64`      |  Duration  |     9h 26m 7s      |
 
-    Notes: Nothing Remarkable
+    ## Notes:
 
-2. `1739024711101:e4e853ddqg2ibu4tzlyd`
+    - Steals Extension Settings for Chromium-based browsers
+    - Steals Metamask Extension data for Chromium-based browsers
+    - Steals login data for Chromium-based browsers
+    - Steals the macOS login keychain file
+    - No Uploads, No Downloads, No Arbitrary Execution
+
+3. `1739024711101:e4e853ddqg2ibu4tzlyd`
 
     | Identity | `e4e853ddqg2ibu4tzlyd` |            |                    |
     | -------- | ---------------------- | :--------: | :----------------: |
@@ -21,8 +27,10 @@ The logs and artifacts for runs mentioned here are in the [runs](runs) folder.
     | OS, Arch |    `darwin arm64`      |  Duration  |      3h 5m 5s      |
 
     ## Notes:
-    
-    Unlike `f1665684MyzFhC9suQL4`, 1h into the runtime, we got an upload from the server. This could suggest it's not an automated process - someone initiated the execution.
+
+    While it does everything mentioned with `f1665684MyzFhC9suQL4`, 1h into the runtime, we got an upload from the server.
+
+    This could suggest it's not an automated process - someone initiated the execution.
 
     They attemped to unarchive a `449` byte gzip-compressed tar archive to `/var/tmp` (saved as `a220fa9a18f85b2c2384`).
 
