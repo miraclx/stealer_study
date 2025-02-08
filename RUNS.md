@@ -4,27 +4,21 @@ The logs and artifacts for runs mentioned here are in the [runs](runs) folder.
 
 1. `1738990085747:f1665684MyzFhC9suQL4`
 
-    Start Time: Feb 8th 2025 05:48
-    End Time: Feb 8th 2025 15:14
-    Runtime: 9h 26m 7s
-
-    ID: `f1665684MyzFhC9suQL4`
-    Username: `jake`
-    Hostname: `jake-pc`
-    OS, Arch: `darwin arm64`
+    | Identity | `f1665684MyzFhC9suQL4` |            |                    |
+    | -------- | ---------------------- | :--------: | :----------------: |
+    | Username |        `jake`          | Start Time | Feb 8th 2025 05:48 |
+    | Hostname |       `jake-pc`        |  End Time  | Feb 8th 2025 15:14 |
+    | OS, Arch |    `darwin arm64`      |  Duration  |     9h 26m 7s      |
 
     Notes: Nothing Remarkable
 
 2. `1739024711101:e4e853ddqg2ibu4tzlyd`
 
-    Start Time: Feb 8th 2025 15:25
-    End Time: Feb 8th 2025 18:30
-    Runtime: 3h 5m 5s
-
-    ID: `e4e853ddqg2ibu4tzlyd`
-    Username: `janet`
-    Hostname: `workspace`
-    OS, Arch: `darwin arm64`
+    | Identity | `e4e853ddqg2ibu4tzlyd` |            |                    |
+    | -------- | ---------------------- | :--------: | :----------------: |
+    | Username |        `janet`         | Start Time | Feb 8th 2025 15:25 |
+    | Hostname |      `workspace`       |  End Time  | Feb 8th 2025 18:30 |
+    | OS, Arch |    `darwin arm64`      |  Duration  |      3h 5m 5s      |
 
     ## Notes:
     
