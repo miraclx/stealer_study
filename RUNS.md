@@ -75,8 +75,8 @@ The logs and artifacts for runs mentioned here are in the [runs](runs) folder.
     | Identity | `d06e23f89wwmMAMUp082` |            |                    |
     | -------- | ---------------------- | :--------: | :----------------: |
     | Username |        `emily`         | Start Time | Feb 8th 2025 19:52 |
-    | Hostname |      `emily-mbp`       |  End Time  | Feb 9th 2025 00:23 |
-    | OS, Arch |     `darwin arm64`     |  Duration  |     4h 31m 17s     |
+    | Hostname |      `emily-mbp`       |  End Time  | Feb 9th 2025 15:13 |
+    | OS, Arch |     `darwin arm64`     |  Duration  |    21h 20m 48s     |
 
     ## Notes:
 
